@@ -10,3 +10,8 @@ Habe 1x clone ausgeführt ändere Readme und pushe Daten zurück. Jetzt möchte 
 Lessons learned:
 * Anlegen GitRepo mit gitignore und readme
 * Basic workflow git <-> github
+
+
+     Aenderungen durchgefuehrt
+
+  
