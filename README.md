@@ -9,3 +9,4 @@ Entwicklungsplattform: Windows 11
 Lessons learned:
 * Anlegen GitRepo mit gitignore und readme
 * Basic workflow git <-> github
+* Aenderung
