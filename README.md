@@ -12,4 +12,6 @@ Lessons learned:
 * Basic workflow git <-> github
 
 
-test in zeile 15
+     Aenderungen durchgefuehrt
+
+  
